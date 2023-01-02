@@ -47,7 +47,6 @@
 - Проект оформляем в фомате Jupyter Notebook;
 - После написания проекта выкладываем его в открытый доступ на GitHub.
 
-
 ### Краткая информация о данных
 - Предоставлен [DataSet](https://drive.google.com/file/d/1i2JIzZA5fASvqXuQcy9NoImVj_g6sw9O/view?usp=sharing)
 - Предоставлен [ноутбук-шаблон](https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
@@ -64,7 +63,7 @@
 3. Очистка данных;
 4. Выводы и предложения.
 
-:arrow_up:[к оглавлению]#Оглавление)
+:arrow_up:[к оглавлению](#Оглавление)
 
 
 ### Результат:  
