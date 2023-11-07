@@ -26,11 +26,11 @@
 :arrow_up:[к оглавлению](#Оглавление)
 
 ### Краткая информация о данных
-- файл [Дататсет]() содержит полные данные таггирования 399 рекламных объявлений
+- файл [Дататсет](https://github.com/ElenaBask/Homework_SF/blob/main/Graduate%20project/data/tagging.xlsx) содержит полные данные таггирования 399 рекламных объявлений
 
-- файл [Блокнот]() - содержит код, созданные графики и полученные результаты
+- файл [Блокнот](https://github.com/ElenaBask/Homework_SF/blob/main/Graduate%20project/Evaluating%20the%20impact%20of%20an%20ad%20parameter%20on%20CTR.ipynb) - содержит код, созданные графики и полученные результаты
 
-- файл [Среда]()  содержит список внешних зависимостей.
+- файл [Среда](https://github.com/ElenaBask/Homework_SF/blob/main/Graduate%20project/model/requirements.txt)  содержит список внешних зависимостей.
 
 :arrow_up:[к оглавлению](#Оглавление)
 
